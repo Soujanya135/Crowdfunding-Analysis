@@ -12,6 +12,7 @@ To study the geographical spread and concentration of successful crowdfunding ef
 To assess projects based on goal range.
 
 Tools Used:
+
 Power BI
 
 Recommendations:
