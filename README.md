@@ -13,8 +13,8 @@ To assess projects based on goal range.
 
 Tools Used:
 
-Power BI 
-Excel
+Power BI, Excel
+
 
 Recommendations:
 
